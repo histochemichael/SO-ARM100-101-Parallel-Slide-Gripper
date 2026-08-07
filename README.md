@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<a href="assets/media/histology-slide-gripper-demo.gif"><img src="assets/images/histology/slide-gripper-single-slide.jpg" alt="SO-ARM100/101 histology slide gripper holding a microscope slide" width="560"></a>
+<a href="assets/media/histology-slide-gripper-demo.gif"><img src="assets/images/histology/slide-gripper-single-slide.jpg" alt="SO-ARM100/101 histology slide gripper mounted on a linear guided rail" width="560"></a>
 
 **Histology slide/rack handling fork of the Robo9 SO-ARM100/101 Parallel Gripper**
 
@@ -44,9 +44,9 @@ This fork is focused on histology and histotechnology automation: gentle slide p
 
 <div align="center">
 
-| Single slide pickup | Staining dipper/rack pickup | Arducam holder view |
+| Microscope slide gripper on linear guided rail | Holding the slide rack | Holding the slide |
 |:-:|:-:|:-:|
-| ![Clamp holding a microscope slide](assets/images/histology/slide-gripper-single-slide.jpg) | ![Clamp aligned with slide staining dipper](assets/images/histology/slide-gripper-staining-dipper.jpg) | ![Arducam holder above the gripper jaws](assets/images/histology/arducam-holder-front.jpg) |
+| ![Microscope slide gripper attached to a linear guided rail](assets/images/histology/slide-gripper-single-slide.jpg) | ![Microscope slide gripper holding the slide rack](assets/images/histology/slide-gripper-staining-dipper.jpg) | ![Microscope slide gripper holding the slide](assets/images/histology/arducam-holder-front.jpg) |
 
 </div>
 
@@ -83,9 +83,9 @@ Related build/demo post: [Michael Viacheslavov on LinkedIn](https://www.linkedin
 
 ### Gripper on SO-ARM101
 
-![Histology slide gripper mounted on SO-ARM101](assets/images/histology/slide-gripper-single-slide.jpg)
+![Histology slide gripper mounted on SO-ARM101 and linear guided rail](assets/images/histology/slide-gripper-single-slide.jpg)
 
-*Histology slide gripper mounted on SO-ARM101 and holding a microscope slide.*
+*Histology slide gripper mounted on SO-ARM101 with the linear guided rail setup.*
 
 ### Dimensions
 
