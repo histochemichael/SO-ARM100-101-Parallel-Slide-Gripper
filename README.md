@@ -44,9 +44,9 @@ This fork is focused on histology and histotechnology automation: gentle slide p
 
 <div align="center">
 
-| Holding the slide rack | Holding the slide |
-|:-:|:-:|
-| ![Microscope slide gripper holding the slide rack](assets/images/histology/slide-gripper-staining-dipper.jpg) | ![Microscope slide gripper holding the slide](assets/images/histology/arducam-holder-front.jpg) |
+| Holding the slide rack | Gripper view grabbing the slide rack | Holding the slide |
+|:-:|:-:|:-:|
+| ![Microscope slide gripper holding the slide rack](assets/images/histology/slide-gripper-staining-dipper.jpg) | ![Gripper camera view while grabbing the slide rack](assets/images/histology/gripper-view-grabbing-slide-rack.jpg) | ![Microscope slide gripper holding the slide](assets/images/histology/arducam-holder-front.jpg) |
 
 </div>
 
