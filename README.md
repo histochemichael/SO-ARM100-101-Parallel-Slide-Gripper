@@ -83,9 +83,9 @@ Related build/demo post: [Michael Viacheslavov on LinkedIn](https://www.linkedin
 
 ### Gripper on SO-ARM101
 
-![Gripper mounted on SO-ARM101](assets/images/specification/07-gripper-on-so-arm100.jpg)
+![Histology slide gripper mounted on SO-ARM101](assets/images/histology/slide-gripper-single-slide.jpg)
 
-*Follower gripper integrated with SO-ARM101 robot arm*
+*Histology slide gripper mounted on SO-ARM101 and holding a microscope slide.*
 
 ### Dimensions
 
