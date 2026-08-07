@@ -44,9 +44,9 @@ This fork is focused on histology and histotechnology automation: gentle slide p
 
 <div align="center">
 
-| Microscope slide gripper on linear guided rail | Holding the slide rack | Holding the slide |
-|:-:|:-:|:-:|
-| ![Microscope slide gripper attached to a linear guided rail](assets/images/histology/slide-gripper-single-slide.jpg) | ![Microscope slide gripper holding the slide rack](assets/images/histology/slide-gripper-staining-dipper.jpg) | ![Microscope slide gripper holding the slide](assets/images/histology/arducam-holder-front.jpg) |
+| Holding the slide rack | Holding the slide |
+|:-:|:-:|
+| ![Microscope slide gripper holding the slide rack](assets/images/histology/slide-gripper-staining-dipper.jpg) | ![Microscope slide gripper holding the slide](assets/images/histology/arducam-holder-front.jpg) |
 
 </div>
 
@@ -80,12 +80,6 @@ Related build/demo post: [Michael Viacheslavov on LinkedIn](https://www.linkedin
 | <img src="assets/images/histology/parallel-microscope-gripper-front.png" alt="Front CAD view of the parallel microscope slide gripper fork" width="250"> | <img src="assets/images/histology/parallel-microscope-gripper-side.png" alt="Angled CAD view showing the microscope slide jaw geometry" width="250"> | <img src="assets/images/histology/parallel-microscope-gripper-isometric.png" alt="Isometric CAD view of the full parallel microscope slide gripper assembly" width="250"> |
 
 *The fork replaces the general-purpose jaws with long, narrow microscope slide fingers and keeps the camera view aligned with the grasping zone for slide and staining dipper/rack handling.*
-
-### Gripper on SO-ARM101
-
-![Histology slide gripper mounted on SO-ARM101 and linear guided rail](assets/images/histology/slide-gripper-single-slide.jpg)
-
-*Histology slide gripper mounted on SO-ARM101 with the linear guided rail setup.*
 
 ### Dimensions
 
